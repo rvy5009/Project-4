@@ -15,13 +15,11 @@ _**Project Title** Keep Fitness
 
 #### Wireframes
 
-> Use the Wireframes section to display desktop, tablet and mobile views.
 
-![Dummy Link](url)
 
-- Desktop Landing
+![Page1](https://i.imgur.com/MhJyKg8.png)
 
-![Dummy Link](url)
+![Page2](https://i.imgur.com/jiGV17x.png)
 
 
 #### Component Hierarchy
@@ -97,11 +95,6 @@ database_db
 
 <br>
 
-***
-## Wireframe
-
-![Page1](https://i.imgur.com/MhJyKg8.png)
-![Page2](https://i.imgur.com/jiGV17x.png)
 
 ## Post-MVP
 > being able to link users to fitness and the fitness back to users
