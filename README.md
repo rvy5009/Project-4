@@ -73,7 +73,6 @@ src
 | css                 |    H     |    10 hrs      |     0 hrs     |    0 hrs    |
 | TOTAL               |          |    26 hrs      |     ?         |     ?       |
 
-> _Why is this necessary? Time frames are key to the development cycle. You have limited time to code your app, and your estimates can then be used to evalute possibilities of your MVP and post-MVP based on time needed. It's best you assume an additional hour for each component, as well as a few hours added to the total time, to play it safe._
 
 <br>
 
@@ -81,7 +80,7 @@ src
 
 #### ERD Model
 
-> Use this section to display an image of a computer generated ERD model.
+![ERD](https://i.imgur.com/iHrlngE.png)
 
 #### Data Heirarchy
 
@@ -91,32 +90,30 @@ src
 
 database_db
 |__ users/
-|__ resources/
-|__ posts/
+|__ comments/
+|__ fitness/
 
 ```
 
 <br>
 
 ***
+## Wireframe
 
 ## Post-MVP
-
-> Use this section to document ideas you've had that would be fun (or necessary) for your Post-MVP. This will be helpful when you return to your project after graduation!
+> being able to link users to fitness and the fitness back to users
 
 ***
 
 ## Project Delivery
 
-> The Delivery section should be expanded and revised as you work on your project.
+
 
 ## Code Showcase
 
-> Use this section to include a brief code snippet of functionality that you are proud of and a brief description.
 
 ## Code Issues & Resolutions
 
-> Use this section to list of all major issues encountered and their resolution, if you'd like.
 
 ***
 
