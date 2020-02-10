@@ -100,6 +100,9 @@ database_db
 ***
 ## Wireframe
 
+![Page1](https://i.imgur.com/MhJyKg8.png)
+![Page2](https://i.imgur.com/jiGV17x.png)
+
 ## Post-MVP
 > being able to link users to fitness and the fitness back to users
 
