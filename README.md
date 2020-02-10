@@ -5,7 +5,7 @@
 
 ## Overview
 
-_**Project Title** Keep Fitness
+**Project Title** Keep Fitness
 
 
 ## MVP
@@ -78,7 +78,7 @@ src
 
 #### ERD Model
 
-![ERD](https://i.imgur.com/iHrlngE.png)
+![ERD](https://i.imgur.com/ajR3N0C.png)
 
 #### Data Heirarchy
 
